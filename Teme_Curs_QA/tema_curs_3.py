@@ -1,4 +1,19 @@
 # 1.Take two int values from user and print greatest among them
+a = int(input('Insert first number: '))
+b = int(input('Insert second number: '))
+
+def greatest(a, b):
+    if a > b:
+        result = a
+    elif a == b:
+        result = 'Numbers are equal'
+    else: result = b
+    if a == b:
+        print(result)
+    else:print(f'The biggest number is: {result}')
+    exit()
+
+print(greatest(a,b))
 
 # 2.A school has following rules for grading system:
 # a. Below 25 - F

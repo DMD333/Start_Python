@@ -54,7 +54,7 @@
       <recent name="C:\Users\Dumit\Documents\GitHub\Start_Python\Teme_Curs_QA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tema_curs_2">
+  <component name="RunManager" selected="Python.tema_curs_3">
     <configuration name="Curs_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,10 +141,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tema_curs_2" />
         <item itemvalue="Python.tema_curs_3" />
-        <item itemvalue="Python.Curs_2" />
         <item itemvalue="Python.curs_3" />
+        <item itemvalue="Python.tema_curs_2" />
+        <item itemvalue="Python.Curs_2" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640807444565</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new update">
+      <created>1640808275050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640808275050</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
