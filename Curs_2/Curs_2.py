@@ -31,3 +31,13 @@ print(int(a) + int(b)) #--> numerele citite de la tastatura sunt STRING si  sunt
 c = int(input("Numar: "))
 d = int(input("Alt numar: "))
 print(c+d)
+
+#----------------------------------------------------------------------
+# == arata egalitatea dintre 2 elemente
+# >= mai mare sau egal
+# <= mai mic sau egal
+# != nu e egal
+
+assert a == b
+assert 18 == 54 or 12 > 10
+assert "in" in "Alina"
