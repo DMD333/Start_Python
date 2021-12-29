@@ -23,7 +23,7 @@ print(isNumberPrim(10))
 
 def day_of_week(today):
     if today == "sambata" or today == "duminica":
-        print("este weekend")
+        return True
     else: print("Este " + today)
 
 day_of_week("marti")
