@@ -2,18 +2,21 @@
 a = int(input('Insert first number: '))
 b = int(input('Insert second number: '))
 
+
 def greatest(a, b):
     if a > b:
         result = a
     elif a == b:
         result = 'Numbers are equal'
-    else: result = b
+    else:
+        result = b
     if a == b:
         print(result)
-    else:print(f'The biggest number is: {result}')
-    exit()
+    print(f'The biggest number is: {result}')
 
-print(greatest(a,b))
+
+print(greatest(a, b))
+
 
 # 2.A school has following rules for grading system:
 # a. Below 25 - F
@@ -23,12 +26,49 @@ print(greatest(a,b))
 # e. 60 to 80 - B
 # f. Above 80 - A
 # Ask user to enter marks and print the corresponding grade.
+student_grade = int(input('Insert your score: '))
+
+
+def grade(student_grade):
+    if student_grade < 25:
+        score = 'F'
+    elif 25 <= student_grade < 45:
+        score = 'E'
+    elif 45 <= student_grade < 50:
+        score = 'D'
+    elif 50 <= student_grade < 60:
+        score = 'C'
+    elif 60 <= student_grade < 80:
+        score = 'B'
+    elif 80 <= student_grade:
+        score = 'A'
+    print('Your grade is', score)
+
+
+grade(student_grade)
+
 
 # 3.A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
 # Ask user for quantity
+quantity = int(input('Insert quantity:'))
+if quantity >= 1000:
+    print("You received 10% DISCOUNT !")
+
 
 # 4.Write an if statement that asks for the user's name via input() function.
-# If the name is "Bond" make it print "Welcome on board 007." Otherwise make it print "Good morning NAME". (Replace Name with user's name)
+# If the name is "Bond" make it print "Welcome on board 007."
+# Otherwise make it print "Good morning NAME". (Replace Name with user's name)
+name = input("Insert your name:")
+
+
+def name_007():
+    if name == 'Bond' or name == 'bond':
+        print("Welcome on board 007.")
+    else:
+        print(f"Good morning {name}")
+
+
+name_007()
 
 # 5.Write a Python program to check the validity of password input by users.
 # Validation :
