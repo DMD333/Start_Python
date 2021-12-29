@@ -31,6 +31,9 @@ print(f'The product of {first_number} * {second_number} = ', first_number * seco
 
 # 5. Check if the first and last number of a string  is the same
 numar = "8231230981238"
+if numar[0] == numar[-1]:
+    print('True')
+
 
 
 # 6. Write a program to find how many times substring “Emma” appears in the given string.
