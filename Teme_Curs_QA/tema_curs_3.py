@@ -140,21 +140,17 @@ loud_parrot()
 
 
 # 9.Given a string, return a new string where "not " has been added to the front.
-# However, if the string already begins with "not", return the string unchanged.
+# However, if the string already begins with "not", return the string unchanged
 def add_not():
-    array = []
-    word = 'not'
+    string = input('Insert name: ')
+    if 'not' in string[:3]:
+        print(string)
+    else:
+        string = 'not ' + string
+        print(string)
 
-    for x in range(3):
-        insert = input("Insert name: ")
-        array.append(insert)
-        if word in array[x][0:3]:
-            print('Name already contain "not"')
-        else:
-            array[x] = 'not ' + array[x]
-    print(array)
+add_not().
 
-add_not()
 
 
 # 10.Given a string, return true if the string starts with "hi" and false otherwise.
@@ -186,4 +182,4 @@ sum()
 
 def special():
     insert = int(input("Insert number: "))
-    # if insert / 11 == 0 or insert  # <-- Nu am inteles exact declaratia pe care trebuie sa o fac
+    if insert / 11 == 0 or insert - 11 =
