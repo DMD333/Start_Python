@@ -182,4 +182,7 @@ sum()
 
 def special():
     insert = int(input("Insert number: "))
-    if insert / 11 == 0 or insert - 11 =
+    if insert / 11 == 0 or insert - 11 == 1:
+        print('Special number !')
+    else:
+        print('Not special number')
