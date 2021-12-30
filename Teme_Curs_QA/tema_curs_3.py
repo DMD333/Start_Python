@@ -29,7 +29,8 @@ print(greatest(a, b))
 student_grade = int(input('Insert your score: '))
 
 
-def grade(student_grade):
+def grade():
+    score = ' '
     if student_grade < 25:
         score = 'F'
     elif 25 <= student_grade < 45:
@@ -42,10 +43,10 @@ def grade(student_grade):
         score = 'B'
     elif 80 <= student_grade:
         score = 'A'
-    print('Your grade is', score)
+    print(f'Your grade is: {score}')
 
 
-grade(student_grade)
+grade()
 
 
 # 3.A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
@@ -78,20 +79,111 @@ name_007()
 # Minimum length 6 characters.
 # Maximum length 16 characters.
 
+import re
+regex = re.compile('[`~!@#$%^&*(){}=+_/\|?.,><":;]')
+password = input("Insert PASSWORD:")
+length_pass = len(password)
+
+
+def chek_password():
+    if length_pass < 6 or length_pass > 16:
+        print("Verify the length of your PASSWORD !")
+    elif not any(c.islower() for c in password):
+        print('Must add LOWER case character')
+    elif not any(x.isupper() for x in password):
+        print('Must add UPPER case character')
+    elif regex.search(password) is None:
+        print('PASSWORD must contain special character')
+    elif not any(a.isdigit() for a in password):
+        print('PASSWORD must contain numeric characters !')
+    else:
+        print('You are all set !')
+
+
+print(chek_password())
+
+
 # 6.Write a Python program that tells a user that the number they entered is not a 5 or a 6.
+number = int(input('insert number: '))
+
+
+def chek_number():
+    if 5 != number != 6:
+        print(f'The number {number} is not number 5 neither 6')
+    else:
+        print('You entered number', number)
+
+
+chek_number()
+
 
 # 7.read three numbers and writes them all in sorted order.
+numbers = []
+for x in range(3):
+    read = int(input(f'Insert number {x+1}: '))
+    numbers.append(read)
+    numbers.sort()
+print(numbers)
+
 
 # 8.We have a loud talking parrot. The "hour" parameter is the current hour time in the range 0..23.
 # We are in trouble if the parrot is talking and the hour is before 7 or after 20.
 # Return true if we are in trouble.
+def loud_parrot():
+    hour = int(input('Insert hour: '))
+    if 7 > hour or hour > 20:
+        print(True, ' We are in trouble')
+    else:
+        print(False, ' We are not in trouble')
+
+loud_parrot()
+
 
 # 9.Given a string, return a new string where "not " has been added to the front.
 # However, if the string already begins with "not", return the string unchanged.
+def add_not():
+    array = []
+    word = 'not'
+
+    for x in range(3):
+        insert = input("Insert name: ")
+        array.append(insert)
+        if word in array[x][0:3]:
+            print('Name already contain "not"')
+        else:
+            array[x] = 'not ' + array[x]
+    print(array)
+
+add_not()
+
 
 # 10.Given a string, return true if the string starts with "hi" and false otherwise.
+def hello():
+    insert = input('Insert string: ')
+    new_array = [insert]
+    new_array = new_array
+
+    print(new_array)
+
+
+hello()
 
 # 11.Given 2 ints, a and b, return their sum. However, sums in the range 10..19 inclusive, are forbidden, so in that case just return 20.
+def sum():
+    a = int(input('insert 1st number: '))
+    b = int(input('insert 2nd number: '))
+    adunare = a + b
+    if 10 <= adunare <= 19:
+        print('Sum is', 20)
+    else:
+        print(f'Suma este = {adunare}')
+
+sum()
+
 
 # 12.We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11.
 # Return true if the given non-negative number is special.
+
+def special():
+    insert = int(input("Insert number: "))
+    if insert / 11 == 0 or insert  # <-- Nu am inteles exact declaratia pe care trebuie sa o fac
