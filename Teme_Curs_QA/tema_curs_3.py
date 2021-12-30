@@ -160,13 +160,13 @@ add_not()
 # 10.Given a string, return true if the string starts with "hi" and false otherwise.
 def hello():
     insert = input('Insert string: ')
-    new_array = [insert]
-    new_array = new_array
-
-    print(new_array)
-
+    if 'hi' in insert[0:2]:
+        print(True)
+    else:
+        print(False)
 
 hello()
+
 
 # 11.Given 2 ints, a and b, return their sum. However, sums in the range 10..19 inclusive, are forbidden, so in that case just return 20.
 def sum():
@@ -186,4 +186,4 @@ sum()
 
 def special():
     insert = int(input("Insert number: "))
-    if insert / 11 == 0 or insert  # <-- Nu am inteles exact declaratia pe care trebuie sa o fac
+    # if insert / 11 == 0 or insert  # <-- Nu am inteles exact declaratia pe care trebuie sa o fac
