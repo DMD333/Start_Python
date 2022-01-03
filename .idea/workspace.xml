@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="14e59819-f657-4085-98e2-466828aab2e2" name="Changes" comment="new update">
       <change afterPath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curs_4/curs_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curs_4/curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/curs_4/curs_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="C:\Users\Dumit\Documents\GitHub\Start_Python\Teme_Curs_QA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.curs_4">
+  <component name="RunManager" selected="Python.tema_curs_4">
     <configuration name="curs_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,8 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.curs_4" />
         <item itemvalue="Python.tema_curs_4" />
+        <item itemvalue="Python.curs_4" />
         <item itemvalue="Python.tema_curs_3" />
         <item itemvalue="Python.curs_3" />
         <item itemvalue="Python.tema_curs_2" />
@@ -250,7 +249,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640874050500</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new update">
+      <created>1640890343543</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1640890343543</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new update">
+      <created>1640890413388</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640890413388</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new update">
+      <created>1640890535684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1640890535684</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
