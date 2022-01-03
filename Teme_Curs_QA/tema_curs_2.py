@@ -37,7 +37,8 @@ if numar[0] == numar[-1]:
 
 # 6. Write a program to find how many times substring “Emma” appears in the given string.
 str_x = "Emma is good developer. Emma is a writer"
-print(str_x.find("Emma"))
+
+print(str_x.count("Emma"))
 
 
 # 7. Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string.
@@ -52,10 +53,12 @@ print(len(pt))
 
 # 9. Write a Python program to get a string from a given string where all occurrences of its first
 # char have been changed to '$', except the first char itself. Go to the editor
-string = 'restart'
 # Expected Result : 'resta$t'
-print(string.replace('r','$',1))
-# print(string.re)
+string = 'restartare'
+keep_letter = string[0]
+replace_letter = string.replace('r','$')
+substring = keep_letter + replace_letter[1:]
+print(substring)
 
 
 # 10. Utilizand tipurile de print pe care vi le-am aratat:
@@ -101,8 +104,7 @@ print(f"The password for user {username} is {star_pass_length}", pass_length, "c
 # de cautat pe net:
 # 14. Write a program to take three names as input from a user in the single input() function call.
 for x in range(0,3):
-    nume = input(f"insert nume {x}: ")
-    x = nume
+    nume = input(f"insert nume {x+1}: ")
 
 
 # 15. Display float number with 2 decimal places using print() pt num = 458.541315 afisati 458.54
