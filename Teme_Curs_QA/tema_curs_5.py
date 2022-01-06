@@ -55,7 +55,7 @@ def sum_20_to_100():
 sum_20_to_100()
 
 # 4) Write a Python program which iterates the integers from 1 to 50.
-# For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz".
+# For multiples of 3 print "Fizz" instead of the number and for the multiples of 5 print "Buzz".
 # For numbers which are multiples of both three and five print "FizzBuzz".
 def fizz_buzz():
     for x in range(1, 51):
@@ -100,7 +100,7 @@ def pattern():
 
 
 pattern()
----------------------------- OR -----------------------------------
+# ---------------------------- OR -----------------------------------
 def pattern_2():
     patt_2 = range(1, 10)
     for x in patt_2:
