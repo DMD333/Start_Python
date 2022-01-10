@@ -149,10 +149,10 @@ def find_6():
     lst = [55, 6, 777, 54, 6, 76, 101, 1, 6, 2, 6]
     counting = lst.count(6)
     print(f'We found 6 in list {counting} times')
-    lst.remove(lst[-1])
+    lst.remove(lst[1])
     print(lst)
 
-find_6()
+find_6() #Nu am stiut sa sterg ultimul element cu remove
 
 
 # 10) Concatenate two lists in the following order
@@ -186,8 +186,9 @@ diagonala_sum()
 list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
 def insert_number():
     insert = int(input('Insert number: '))
-    # list1.append([2][2]insert)
+    list1.append([2][2], 7000)
 
+insert_number()
 
 # 14) Given a Python list, find value 20 in the list, and if it is present, replace it with 200.
 #  Only update the first occurrence of a value
@@ -205,7 +206,7 @@ def replace_element():
 replace_element()
 
 
-# 17) Remove empty strings from the list of strings
+# 15) Remove empty strings from the list of strings
 def remove_empty():
     new_string = ["Mike", "", "Emma", "Kelly", "", "Brad"]
     for x in new_string:
@@ -217,7 +218,7 @@ def remove_empty():
 remove_empty()
 
 
-# 18) Write a program that appends the square of each number to a new list. (o noua lista cu patratul fiecarui element)
+# 16) Write a program that appends the square of each number to a new list. (o noua lista cu patratul fiecarui element)
 def square():
     insert = int(input('Insert number: '))
     answer = True
@@ -234,10 +235,10 @@ def square():
             print('Your list is: ', arr)
             answer = False
             break
-square()
+square() # nu am stiut sa il fac
 
 
-# 19) Write a function that takes a list as a parameter and returns the reversed list. Do NOT use the built-in reverse() function.
+# 17) Write a function that takes a list as a parameter and returns the reversed list. Do NOT use the built-in reverse() function.
 def reverse_list():
     first_list = [2, 17, 18, 91, 177, 31, 87, 202, 44, 30]
     new_list = []
@@ -249,11 +250,10 @@ def reverse_list():
         new_list.append(first_list[length - counting])
     print(new_list)
 
-reverse_list()
+reverse_list() # aici cred ca mi-a scapat un pic cerinta (trebuia sa inserez un parametru in functie ca lista) o sa il refac
 
 
-
-# 20) Write a python program to print the first 10 numbers Fibonacci series
+# 18) Write a python program to print the first 10 numbers Fibonacci series
 def fibonaci():
     x = 0
     y = 1
@@ -268,7 +268,7 @@ def fibonaci():
 
 fibonaci()
 
-# 21) Write a python program to read a number and print a right triangle using "*"
+# 19) Write a python program to read a number and print a right triangle using "*"
 # Input : 5
 # ----------Output---------
 # *
@@ -284,7 +284,7 @@ def stars():
 
 stars()
 
-# 22) Write a python program to check given number is prime or not
+# 20) Write a python program to check given number is prime or not
 def prime_number(number):
     verifica = type(number)
     if verifica is int:
@@ -295,7 +295,7 @@ def prime_number(number):
 
 print(prime_number(-11))
 
-# 23) Write a python program to print all prime numbers between 0 to 100 , and print how many prime numbers are there.
+# 21) Write a python program to print all prime numbers between 0 to 100 , and print how many prime numbers are there.
 def prime_1_to_99():
     counting = 0
     for x in range(1, 100):
