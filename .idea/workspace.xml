@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e59819-f657-4085-98e2-466828aab2e2" name="Changes" comment="new update">
+      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Curs_6_Dictionary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Curs_6_Dictionary/curs_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/curs_4/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs_2/Curs_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_2/Curs_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs_3/curs_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_3/curs_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/exercitii_suplimentare.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curs_4/curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/curs_4/curs_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +49,12 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Teme_Curs_QA/tema_curs_3.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Curs_3/curs_3.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Curs_2/Curs_2.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Teme_Curs_QA/tema_curs_2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_3.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QA Automation/Curs_3/curs_3.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QA Automation/Curs_2/Curs_2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22YgmioiyNxOXldQvnOWlI55xWL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,11 +71,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dumit\Documents\GitHub\Start_Python\PYTHON_3_Udemy_Course" />
+      <recent name="C:\Users\Dumit\Documents\GitHub\Start_Python\QA Automation" />
       <recent name="C:\Users\Dumit\Documents\GitHub\Start_Python\Teme_Curs_QA" />
     </key>
   </component>
   <component name="RunManager" selected="Python.tema_curs_5">
-    <configuration name="curs_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lists (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curs_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curs_4/curs_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercitii_suplimentare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Teme_Curs_QA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teme_Curs_QA/exercitii_suplimentare.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dumit\Documents\GitHub\Start_Python\PYTHON_3_Udemy_Course\Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tema_curs_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercitii_suplimentare (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Teme_Curs_QA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tema_curs_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="guessingv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Teme_Curs_QA" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Dumit\Documents\GitHub\Start_Python\Teme_Curs_QA\tema_curs_4.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/guessingv2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Teme_Curs_QA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA Automation/Teme_Curs_QA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,10 +185,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.tema_curs_5" />
-        <item itemvalue="Python.exercitii_suplimentare" />
-        <item itemvalue="Python.tema_curs_2" />
-        <item itemvalue="Python.tema_curs_4.1" />
-        <item itemvalue="Python.curs_4" />
+        <item itemvalue="Python.Lists (1)" />
+        <item itemvalue="Python.Lists" />
+        <item itemvalue="Python.guessingv2" />
+        <item itemvalue="Python.exercitii_suplimentare (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641507058269</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new update">
+      <created>1641828179997</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1641828179997</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

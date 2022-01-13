@@ -185,8 +185,9 @@ diagonala_sum()
 # 13) Add item 7000 after 6000 in the following Python List
 list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
 def insert_number():
-    insert = int(input('Insert number: '))
-    list1.append([2][2], 7000)
+    list1[2][2].append(7000)
+    print(list1)
+
 
 insert_number()
 
@@ -239,8 +240,9 @@ square() # nu am stiut sa il fac
 
 
 # 17) Write a function that takes a list as a parameter and returns the reversed list. Do NOT use the built-in reverse() function.
-def reverse_list():
-    first_list = [2, 17, 18, 91, 177, 31, 87, 202, 44, 30]
+first_list = [2, 17, 18, 91, 177, 31, 87, 202, 44, 30]
+
+def reverse_list(first_list):
     new_list = []
     counting = 0
     length = len(first_list)
@@ -250,8 +252,8 @@ def reverse_list():
         new_list.append(first_list[length - counting])
     print(new_list)
 
-reverse_list() # aici cred ca mi-a scapat un pic cerinta (trebuia sa inserez un parametru in functie ca lista) o sa il refac
-
+reverse_list(first_list)
+reverse_list([5,5 ,6])
 
 # 18) Write a python program to print the first 10 numbers Fibonacci series
 def fibonaci():

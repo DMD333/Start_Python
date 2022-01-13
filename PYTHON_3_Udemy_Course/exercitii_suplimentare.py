@@ -5,11 +5,10 @@ def rock_paper_scissors():
     answer = True
     numar = 0
 
-    cuvant = input('Insereaza rock, paper sau scissor: ')
+    cuvant = input('Insereaza rock, paper sau scissor: ').islower()
 
     while answer is True:
-        for x in range(1):
-            numar = randint(0, 2)
+        numar = randint(0, 2)
         if cuvant == arr[numar]:
             print("It's a tie, Try again !")
         elif cuvant == 'rock' and arr[numar] == 'scissor':
@@ -23,10 +22,11 @@ def rock_paper_scissors():
 
         word = input('CONTINUE y/n ? : ')
         if word == 'y':
-            cuvant = input('Insereaza rock, paper sau scissor: ')
+            cuvant = input('Insereaza rock, paper sau scissor: ').islower()
         else:
             print('THANK YOU FOR YOUR TIME !')
             answer = False
+        print(numar)
 
 
 rock_paper_scissors()
