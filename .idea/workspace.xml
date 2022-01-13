@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e59819-f657-4085-98e2-466828aab2e2" name="Changes" comment="new update">
-      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Curs_6_Dictionary/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Curs_6_Dictionary/curs_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/curs_4/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs_2/Curs_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_2/Curs_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs_3/curs_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_3/curs_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/exercitii_suplimentare.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme_Curs_QA/tema_curs_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/curs_4/curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/curs_4/curs_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA Automation/curs_4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA Automation/curs_4/curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_4/curs_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +31,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_3.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/QA Automation/Curs_3/curs_3.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/QA Automation/Curs_2/Curs_2.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_2.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22YgmioiyNxOXldQvnOWlI55xWL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -348,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641828179997</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new update">
+      <created>1642092233997</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642092233997</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
