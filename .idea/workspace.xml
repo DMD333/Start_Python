@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e59819-f657-4085-98e2-466828aab2e2" name="Changes" comment="new update">
+      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/class2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/deck_of_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Curs_7_CLASE/curs_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Start_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Start_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QA Automation/curs_4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_4/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QA Automation/curs_4/curs_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA Automation/Curs_4/curs_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA Automation/Curs_6_Dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA Automation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/List_Comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sublime/first_program.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +42,17 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0e9622de-7e30-46b6-9dab-d9d81f2070f4" />
+        <option name="url" value="https://github.com/DMD333/Start_Python.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="22YgmioiyNxOXldQvnOWlI55xWL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,7 +64,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,8 +74,8 @@
       <recent name="C:\Users\Dumit\Documents\GitHub\Start_Python\Teme_Curs_QA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tema_curs_5">
-    <configuration name="Lists (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tema_curs_7">
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course/class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="class2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Dumit\Documents\GitHub\Start_Python\PYTHON_3_Udemy_Course\Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course/class2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercitii_suplimentare (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="curs_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA Automation/Curs_7_CLASE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA Automation/Curs_7_CLASE/curs_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,28 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guessingv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Start_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/guessingv2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tema_curs_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tema_curs_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Start_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +150,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_web_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Start_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA Automation/Curs_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dumit\Documents\GitHub\Start_Python\QA Automation\Curs_8\test_web_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tema_curs_5" />
-        <item itemvalue="Python.Lists (1)" />
-        <item itemvalue="Python.Lists" />
-        <item itemvalue="Python.guessingv2" />
-        <item itemvalue="Python.exercitii_suplimentare (1)" />
+        <item itemvalue="Python.tema_curs_7" />
+        <item itemvalue="Python.test_web_test" />
+        <item itemvalue="Python.class2" />
+        <item itemvalue="Python.curs_7" />
+        <item itemvalue="Python.class" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642092233997</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new update">
+      <created>1642092477799</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1642092477799</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +373,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new update" />

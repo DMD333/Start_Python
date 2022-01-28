@@ -1,34 +1,15 @@
-from random import randint
+inventory = {'croissant': 19, 'bagel': 4, 'muffin': 8, 'cake': 1} #DON'T CHANGE THIS LINE!
 
-def rock_paper_scissors():
-    arr = ['rock', 'paper', 'scissor']
-    answer = True
-    numar = 0
+# Make a copy of inventory and save it to a variable called stock_list USE A DICTIONARY METHOD
 
-    cuvant = input('Insereaza rock, paper sau scissor: ').islower()
-
-    while answer is True:
-        numar = randint(0, 2)
-        if cuvant == arr[numar]:
-            print("It's a tie, Try again !")
-        elif cuvant == 'rock' and arr[numar] == 'scissor':
-            print('You won' + f'--> {cuvant} vs {arr[numar]}')
-        elif cuvant == 'scissor' and arr[numar] == 'paper':
-            print('You won' + f'--> {cuvant} vs {arr[numar]}')
-        elif cuvant == 'paper' and arr[numar] == 'rock':
-            print('You won' + f'--> {cuvant} vs {arr[numar]}')
-        else:
-            print('You lose')
-
-        word = input('CONTINUE y/n ? : ')
-        if word == 'y':
-            cuvant = input('Insereaza rock, paper sau scissor: ').islower()
-        else:
-            print('THANK YOU FOR YOUR TIME !')
-            answer = False
-        print(numar)
+stock_list = inventory.copy()
 
 
-rock_paper_scissors()
+# add the value 18 to stock_list under the key "cookie"
+stock_list['Cookie'] = 18
+print(stock_list)
 
 
+# remove 'cake' from stock_list USE A DICTIONARY METHOD
+stock_list.pop('cake')
+print(stock_list)
