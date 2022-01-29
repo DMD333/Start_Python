@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e59819-f657-4085-98e2-466828aab2e2" name="Changes" comment="new update">
-      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/class2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/deck_of_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Curs_7_CLASE/curs_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Automation/Teme_Curs_QA/tema_curs_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Start_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Start_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/exercitii_suplimentare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QA Automation/Curs_6_Dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/Dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QA Automation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_3_Udemy_Course/List_Comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sublime/first_program.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642092477799</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="new update">
+      <created>1643398943388</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1643398943388</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
